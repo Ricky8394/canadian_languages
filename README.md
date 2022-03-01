@@ -1,1 +1,1 @@
-# canadian_languages
+# dsci-100-project
